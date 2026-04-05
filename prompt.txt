@@ -1,0 +1,21 @@
+Buat issue.md, berisi planning untuk membuat ini:
+
+buat project baru di folder ini
+
+menggunakan dependency berikut:
+- Next Js
+- Tailwind CSS
+- TypeScript
+- Shadcn UI
+- Postgres
+- Prisma
+- Next Auth
+- React Hook Form
+- Zod
+- Lucide React
+
+Jangan terlalu low level / detail
+
+cukup instruksikan secara high level
+
+nanti dokumen planningnya akan digunakan oleh model ai yang lebih murah untuk di implementasikan
